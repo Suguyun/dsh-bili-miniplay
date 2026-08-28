@@ -1,0 +1,4 @@
+# dsh-bili-miniplay bundle patch: inserts its public dsh.client entry into the web plugin roster.
+- insert:
+    - id: bili-miniplay
+      name: '@dsh-external/dsh-bili-miniplay'
